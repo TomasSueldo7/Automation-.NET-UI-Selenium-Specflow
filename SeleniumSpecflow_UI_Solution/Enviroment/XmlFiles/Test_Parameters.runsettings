@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<TestAdapters>
+			<TestAdapter Framework="dotnet" />
+		</TestAdapters>
+	</RunConfiguration>
+	<TestRunParameters>
+		<Parameter name="WebSite" value="https://practicetestautomation.com/practice-test-login/" />
+		<Parameter name="Username" value="student" />
+		<Parameter name="Password" value="Password123" />
+	</TestRunParameters>
+</RunSettings>
